@@ -1,5 +1,4 @@
 # ShapeDNA
-A python implementation to extract Shape DNA [1] of triangle surface meshes
 
 
 
