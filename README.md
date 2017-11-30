@@ -2,14 +2,14 @@
 
 
 
-A python implementation of the finite element discretization of the Laplace-Beltrami operator, following the steps presented  in [1].
+A python implementation of the finite element discretization of the Laplace-Beltrami operator (LBO), following the steps presented  in [1].
 
 
 ## Input:
 A two-manifold triangle mesh as a Wavefront OBJ file.
 
 ## Output:
-The spectrum, i.e. eigenvalues and eigenvectors of the two-manifold triangle mesh.
+The spectrum, i.e. eigenvalues and eigenvectors of the LBO defined on the input mesh.
 
 
 ## Reference:
