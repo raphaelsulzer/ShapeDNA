@@ -6,10 +6,10 @@ A python implementation of the finite element discretization of the Laplace-Belt
 
 
 ## Input:
-A two-manifold triangle mesh as a Wavefront OBJ file.
+A 2-manifold triangle mesh as a Wavefront OBJ file.
 
 ## Output:
-The spectrum, i.e. eigenvalues and eigenvectors of the LBO defined on the input mesh.
+The spectrum, i.e. eigenvalues and eigenvectors of the LBO of the input mesh.
 
 
 ## Reference:
